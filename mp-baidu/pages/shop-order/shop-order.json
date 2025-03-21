@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "我的订单",
+  "component": true,
+  "usingComponents": {
+    "mescroll-uni": "/components/mescroll-uni/mescroll-uni"
+  }
+}
